@@ -1,0 +1,6 @@
+@SE161734_NguyenThanhLong_Assignment1_HostAddress = http://localhost:5053
+
+GET {{SE161734_NguyenThanhLong_Assignment1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
